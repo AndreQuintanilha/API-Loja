@@ -1,0 +1,247 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 25px;
+    
+    
+}
+
+main{
+    margin: 10px;
+    padding-top: 20px;
+    padding: 0 auto;
+    flex: 1;
+
+}
+
+
+#Consultar{
+    background-image: url('https://www.objectives-keyresults.com/images/teaser/laptopBg.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 10px;
+    
+    
+}
+
+#sobreNos{
+    background-image: url('https://img.pikbest.com/ai/illus_our/20230526/7847dd7994592435ff90ad962436d068.jpg!w700wp'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 10px;
+
+}
+
+#Contato{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/006/660/791/non_2x/the-office-desk-has-items-such-as-keyboards-books-black-coffee-mugs-and-smartphones-the-notebook-is-made-of-gray-imitation-leather-punched-leather-book-cover-on-the-spine-3d-rendering-free-photo.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 10px;
+    
+    
+}
+.navbar {
+  
+position: fixed;
+
+}
+
+.navbar-brand {
+    color: black; 
+    font-weight: bold; 
+    font-size: 30px;
+}
+
+span{
+    color: green;
+}
+
+.badge-pill{
+    background-color: white;
+    color: green; 
+    font-size: 20px;
+}
+
+.navbar ul li a{
+font-size: 20px;
+  
+}
+
+.logo {
+    
+margin-top: 100px;
+display: block;
+margin: 0 auto; 
+width: 45rem;
+height: auto;
+ 
+}
+
+
+.card {
+border: 2px solid #099704;
+border-radius: 5px;
+margin-bottom: 20px;
+background-color: #1d1c1c;
+
+
+}
+
+img{
+    margin: 20px;
+    
+}
+
+
+
+.card-title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
+
+#card-text{
+    color: green;
+    font-size: 25px;
+}
+
+
+.card-img-top {
+    width: 50%;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+.btn:hover {
+background-color: #267ace;
+}
+
+
+
+.btn-secundary {    
+background-color:green;
+color: #fff;
+border-radius: 10px;
+text-decoration: none;
+display: flex;
+justify-content: center;
+width: 100%; 
+padding: 10px;
+text-align: center; 
+margin-top: 10px; 
+font-size: 20px;
+    
+    
+}
+
+#sobreNos h1{
+    color: white;
+    font-size: 60px;
+}
+
+#sobreNos h2{
+    color: #099704;
+    font-size: 40px;
+}
+
+#sobreNos p{
+    color: white;
+    font-size: 25px;
+}
+
+.text-title{
+font-size: 60px; 
+color: white;
+    
+} 
+
+
+
+#Contato p{
+color: white;
+font-size: 25px; 
+margin-top: 20px;
+    
+
+}
+
+.btn-primary {
+ display: inline;
+ font-size: 20px;
+ background-color: green;
+ border-color: green;
+ color: white;
+ padding: 10px 50px;
+}
+
+.btn-primary:hover {
+    background-color: #0c4bd4;
+    
+}
+
+#filtrar {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 40rem;   
+    height: 5rem;
+    font-size: 20px;
+}
+
+#resultado{
+    color: red;
+    font-size: 20px;
+    margin-top: 20px; 
+    
+}
+
+.text-title p{
+    font-size: 25px;
+}
+
+.social-icon{
+    font-size: 30px;
+    color: white; 
+    margin: 20px;
+    display: block;
+    
+}
+
+.social-icon:hover{
+    color: green;
+}
+
+
+.fab{
+    margin: 10px;
+    
+}
+
+.textCont{
+    font-size: 25px;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+    
+}
+
+.rodape {
+    padding: 10px;
+    position: relative;
+    
+}
+    
